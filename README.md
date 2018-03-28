@@ -1,3 +1,3 @@
 # hello-world
-trying out Git
+trying  Git
 adding branch code 
